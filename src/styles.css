@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "Aristotelica";
+  src: local("Aristotelica"), url(../public/Aristotelica.ttf) format("truetype");
+}
+
+body {
+  font-family: "Aristotelica";
+}
